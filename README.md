@@ -1,21 +1,5 @@
 <h3 title="hehehe"> ¡Hola 👋, soy Yhonatan Leonardo Mamani Torrez!</h3>
 
-<a href="https://www.linkedin.com/in/tu-perfil">
-  <img align="left" alt="LinkedIn de Yhonatan" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/tu-instagram/">
-  <img align="left" alt="Instagram de Yhonatan" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/tu-perfil">
-  <img align="left" alt="Facebook de Yhonatan" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://twitter.com/tu-twitter">
-  <img align="left" alt="Twitter de Yhonatan" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />
-</a>
-
-<br />
-<br />
-
 Apasionado por el **DESARROLLO WEB** 🚀.
  
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
@@ -26,7 +10,6 @@ Apasionado por el **DESARROLLO WEB** 🚀.
 - 🌱 Actualmente, estoy aprendiendo sobre redes y mejorando mis habilidades en HTML y CSS.  
 - 🤔 Me interesa el desarrollo web y la ciberseguridad.  
 - 💬 ¡Pregúntame cualquier cosa, me encanta ayudar!  
-- 📫 Contáctame por email: [tu-email@gmail.com](mailto:tu-email@gmail.com).  
 
 **Lenguajes y Herramientas:**  
 
